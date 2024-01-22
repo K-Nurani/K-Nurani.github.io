@@ -35,15 +35,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MBChB
+      institution: University of Nairobi
+      year: 2026
+    - course: BSc in Human Anatomy
+      institution: University of Nairobi
+      year: 2021
+    - course: DBIT
+      institution: Strathmore University 
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -95,16 +95,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/KNurani1
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/K-Nurani
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
